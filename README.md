@@ -1,16 +1,22 @@
-### Hi there 👋
+# **Oi, meu nome é Karyna Martinez e este é meu repositório**
 
-<!--
-**Karynavm/Karynavm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *la vão algumas curiosidades sobre mim:*
 
-Here are some ideas to get you started:
+- estudo no colégio técnico industrial de santa maria - CTISM;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou no segundo ano do ensino médio;
+
+- curso o técnico integrado em informática para internet;
+
+- gosto de documentários e filmes sobre casos criminais;
+
+- Gosto de jogar vôlei;
+
+- Tenho um cachorro 
+
+- toco piano/teclado/violino/violão;
+
+
+
+![duque](duque.jpeg)
+
