@@ -18,6 +18,6 @@
 
 
 
-![duque](duque.jpeg)
+![duque](duque.jpg)
 
 modificação na novab
