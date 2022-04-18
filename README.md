@@ -2,19 +2,21 @@
 
 ## *la vão algumas curiosidades sobre mim:*
 
-- estudo no colégio técnico industrial de santa maria - CTISM;
+- Estudo no colégio técnico industrial de santa maria - CTISM;
 
-- estou no segundo ano do ensino médio;
+- Estou no terceiro ano do ensino médio;
 
-- curso o técnico integrado em informática para internet;
+- Curso o técnico integrado em informática para internet;
 
-- gosto de documentários e filmes sobre casos criminais;
+- Gosto de documentários e filmes sobre casos criminais;
 
 - Gosto de jogar vôlei;
 
-- Tenho um cachorro 
+- Tenho um cachorro;
 
-- toco piano/teclado/violino/violão;
+- Toco piano/teclado/violino/violão;
+
+- Adotei um gato;
 
 
 
